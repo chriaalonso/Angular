@@ -1,0 +1,56 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Wolverine"
+    },
+    {
+      "id": 2,
+      "name": "Spider Man"
+    },
+    {
+      "id": 3,
+      "name": "SuperMan"
+    },
+    {
+      "id": 4,
+      "name": "Batman"
+    },
+    {
+      "id": 5,
+      "name": "Mulher Maravilha"
+    },
+    {
+      "id": 6,
+      "name": "Pantera Negra"
+    },
+    {
+      "id": 7,
+      "name": "Mulher Gato"
+    },
+    {
+      "id": 8,
+      "name": "Capitão Marvel"
+    },
+    {
+      "id": 9,
+      "name": "Hulk"
+    },
+    {
+      "id": 10,
+      "name": "Capitão América"
+    },
+    {
+      "name": "Christian A. Alonso",
+      "id": 11
+    },
+    {
+      "name": "Raul Alonso",
+      "id": 12
+    },
+    {
+      "name": "Heloísa L. Alonso",
+      "id": 13
+    }
+  ]
+}
